@@ -4,10 +4,10 @@
 
 This project calculates simple interest using the formula:
 
-Simple Interest = (Principal × Rate × Time) / 100
+Simple Interest = (Principle × Rate × Time) / 100
 
 ## Input
-- Principal
+- Principle
 - Rate of Interest
 - Time Period
 
